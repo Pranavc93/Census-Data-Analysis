@@ -1,0 +1,1 @@
+This repository contains Python, R, and SQL code that was used to analyse census data in New York county from 2000 until 2010. This was a project done as part of a Master's course in Data Analytics Engineering at George Mason University.
